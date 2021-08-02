@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{1E717913-8CBC-4A0C-B694-4E32E216645F}</ProjectGuid>
+    <ProjectGuid>{862DF9DE-A8EC-4466-9535-469E16BEE7D3}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>AracKullanimlari</RootNamespace>
-    <AssemblyName>AracKullanimlari</AssemblyName>
+    <RootNamespace>UcusRezervasyonSistemi</RootNamespace>
+    <AssemblyName>UcusRezervasyonSistemi</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
