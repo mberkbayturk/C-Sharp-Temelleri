@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UcusRezervasyonSistemi", "U
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SinemaBufeSatısSistemi", "SinemaBufeSatısSistemi\SinemaBufeSatısSistemi.csproj", "{2C9ABA8C-2DE7-45B3-9AB0-219413EE77F2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BilgiYarismasi", "BilgiYarismasi\BilgiYarismasi.csproj", "{DCF31AC6-62F1-41DF-A0A0-CF5C9CDB30C0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{2C9ABA8C-2DE7-45B3-9AB0-219413EE77F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2C9ABA8C-2DE7-45B3-9AB0-219413EE77F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2C9ABA8C-2DE7-45B3-9AB0-219413EE77F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCF31AC6-62F1-41DF-A0A0-CF5C9CDB30C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCF31AC6-62F1-41DF-A0A0-CF5C9CDB30C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCF31AC6-62F1-41DF-A0A0-CF5C9CDB30C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCF31AC6-62F1-41DF-A0A0-CF5C9CDB30C0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
