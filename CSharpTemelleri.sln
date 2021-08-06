@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BilgiYarismasi", "BilgiYari
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PastaPisirmeSurecUygulamasi", "PastaPisirmeSurecUygulamasi\PastaPisirmeSurecUygulamasi.csproj", "{4D43F42F-389C-4CC6-90D1-21CCE89BA269}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SinemaFragmanSistemi", "SinemaFragmanSistemi\SinemaFragmanSistemi.csproj", "{78BFF73C-39C0-46E1-A33A-6D8125753D2C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{4D43F42F-389C-4CC6-90D1-21CCE89BA269}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4D43F42F-389C-4CC6-90D1-21CCE89BA269}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4D43F42F-389C-4CC6-90D1-21CCE89BA269}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78BFF73C-39C0-46E1-A33A-6D8125753D2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78BFF73C-39C0-46E1-A33A-6D8125753D2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78BFF73C-39C0-46E1-A33A-6D8125753D2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78BFF73C-39C0-46E1-A33A-6D8125753D2C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
