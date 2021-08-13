@@ -9,7 +9,7 @@
 //------------------------------------------------------------------------------
 
 
-namespace PersonelKayit.Properties
+namespace HastaneYönetimVeRandevuSistemi.Properties
 {
     /// <summary>
     ///   A strongly-typed resource class, for looking up localized strings, etc.
@@ -43,7 +43,7 @@ namespace PersonelKayit.Properties
             {
                 if ((resourceMan == null))
                 {
-                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("PersonelKayit.Properties.Resources", typeof(Resources).Assembly);
+                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("HastaneYönetimVeRandevuSistemi.Properties.Resources", typeof(Resources).Assembly);
                     resourceMan = temp;
                 }
                 return resourceMan;
